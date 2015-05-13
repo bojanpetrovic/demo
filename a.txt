@@ -1,5 +1,1 @@
-total 12
-drwxrwxr-x 3 boki boki 4096 Svi 13 13:21 .
-drwxrwxr-x 3 boki boki 4096 Svi 13 13:21 ..
--rw-rw-r-- 1 boki boki    0 Svi 13 13:21 a.txt
-drwxrwxr-x 7 boki boki 4096 Svi 13 13:21 .git
+pink
